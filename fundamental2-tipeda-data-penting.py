@@ -9,6 +9,8 @@ print('anak2')
 print('anak3')
 print('anak4')
 
+
+# diawali dengan kurung []
 print('\ntipe data list/daftar/array')
 anak = ['Eko', 'Dwi', 'Tutu', 'Nini']
 print(anak)
@@ -25,3 +27,4 @@ for a in anak:
 print('\nSapa semua anak cara ribet')
 for a in range(0, len(anak)): # Fungsi Len untuk menghitung jumlah list, karena kita tidak tau brapa bnyk anak karena sudah append
     print(f'{a+1}. Hai {anak[a]}')
+

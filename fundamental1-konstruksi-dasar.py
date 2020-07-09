@@ -8,9 +8,9 @@ print('-' * 3)
 # PERCABANGAN: Eksekusi terpilih
 ingin_cepat = False
 if ingin_cepat:
-    print('Jalan lurus aja ya!')
+    print('\nJalan lurus aja ya!')
 else:
-    print('Jalan lain')
+    print('\nJalan lain')
 
 
 # PERULANGAN
