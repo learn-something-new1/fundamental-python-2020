@@ -4,10 +4,10 @@ anak2 = 'dwi'
 anak3 = 'tri'
 anak4 = 'toto'
 
-print('anak1')
-print('anak2')
-print('anak3')
-print('anak4')
+print(anak1)
+print(anak2)
+print(anak3)
+print(anak4)
 
 
 # diawali dengan kurung []
